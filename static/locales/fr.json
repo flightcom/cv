@@ -1,0 +1,54 @@
+{
+  "website":{
+    "title": "CV de Sébastien Moreau"
+  },
+  "nav":{
+    "home": "Home",
+    "about_me": "À Propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "career": "Expérience",
+    "blog": "Blog",
+    "link": "Liens"
+  },
+  "about_me":{
+    "about_me": "À Propos",
+    "des": "Je suis ingénieur full-stack expérimenté en développement web, DevOps et scripting. La vie est un processus d'apprentissage continue, avec le travail vient la rigueur, avec les voyages la couleur."
+  },
+  "skills":{
+    "my_skills": "Mes Compétences"
+  },
+  "projects":{
+    "my_projects": "Mes Projets",
+    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
+    "cpython": "This project is other's project. I use another request to get repo's information.",
+    "familycode": "This is another project."
+  },
+  "career":{
+    "my_career": "Mon Expérience",
+    "osedea": "OSEDEA",
+    "osedea_des": "Actuellement chez OSEDEA, un studio de développement, je travaille sur plein de projets différents en React, Laravel, React Native. Docker et Ansible sont nos outils favoris",
+    "osedea_date": "Mai 2016",
+    "osedea_job": "Full-Stack Developer",
+    "capgemini": "CapGemini",
+    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
+    "netease_date": "Sept. 2015",
+    "netease_job": "Ingénieur Logiciel",
+    "ucloud": "Ucloud",
+    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
+    "ucloud_date": "Sep. 2013",
+    "ucloud_job": "Dev Ops",
+    "college": "Graduation",
+    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
+    "college_date": "Jul. 2013",
+    "college_job": "Student"
+  },
+  "blog":{
+    "my_blog": "Mon Blog"
+  },
+  "link":{
+    "link": "Liens",
+    "view": "Vues"
+  }
+
+}
