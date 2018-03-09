@@ -1,29 +1,85 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: OSEDEA
-    i18n: osedea
+    i18n: mooc
   desc:
-    detail: I worked at Company A ...
-    i18n: osedea_desc
+    i18n: mooc_desc
   date:
-    detail: Apr. 2016
-    i18n: osedea_date
+    i18n: mooc_date
   job:
-    detail: Full-stack developer
-    i18n: osedea_job
-  icon: fa-plus-square
+    i18n: mooc_job
+  loc:
+    i18n: mooc_loc
+  icon: fa-graduation-cap
 
 - name:
-    detail: Company B
-    i18n: company_b
+    i18n: osedea
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    i18n: osedea_desc
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    i18n: osedea_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    i18n: osedea_job
+  loc:
+    i18n: osedea_loc
+  icon: fa-briefcase
+
+- name:
+    i18n: capgemini
+  desc:
+    i18n: capgemini_desc
+  date:
+    i18n: capgemini_date
+  job:
+    i18n: capgemini_job
+  loc:
+    i18n: capgemini_loc
+  icon: fa-briefcase
+
+- name:
+    i18n: cnam2
+  desc:
+    i18n: cnam2_desc
+  date:
+    i18n: cnam2_date
+  job:
+    i18n: cnam2_job
+  loc:
+    i18n: cnam2_loc
+  icon: fa-graduation-cap
+
+- name:
+    i18n: woodbrass
+  desc:
+    i18n: woodbrass_desc
+  date:
+    i18n: woodbrass_date
+  job:
+    i18n: woodbrass_job
+  loc:
+    i18n: woodbrass_loc
+  icon: fa-briefcase
+
+- name:
+    i18n: bimedia
+  desc:
+    i18n: bimedia_desc
+  date:
+    i18n: bimedia_date
+  job:
+    i18n: bimedia_job
+  loc:
+    i18n: bimedia_loc
+  icon: fa-briefcase
+
+- name:
+    i18n: cnam
+  desc:
+    i18n: cnam_desc
+  date:
+    i18n: cnam_date
+  job:
+    i18n: cnam_job
+  loc:
+    i18n: cnam_loc
+  icon: fa-graduation-cap

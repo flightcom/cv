@@ -1,8 +1,8 @@
 $(document).ready(function() {
   var i18nOpts = {
-    lng: 'en',
+    lng: 'fr',
     getAsync: true,
-    fallbackLng: 'en',
+    fallbackLng: 'fr',
     resGetPath: 'static/locales/__lng__.json'
   };
 
@@ -26,3 +26,4 @@ $(document).ready(function() {
 
   i18n.init(i18nOpts, translate);
 });
+

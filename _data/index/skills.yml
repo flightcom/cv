@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: GitHub, Docker, HTML5, Ansible, ReactJS, Laravel, Machine Learning, Drinking Coffee, React Native
-percentage: 90, 75, 90, 70, 80, 80, 50, 90, 50
+aspects: Git, Docker, HTML5, Ansible, ReactJS, Laravel, Machine Learning, Drinking Coffee, React Native, Scrum
+percentage: 95, 85, 95, 70, 75, 80, 50, 90, 50, 90
